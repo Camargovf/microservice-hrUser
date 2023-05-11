@@ -3,7 +3,7 @@
 </h1>
 
 
-<h1 align="center"> Projeto Microservices com Java Spring Boot e Spring Cloud (CONSTRUÇAO) </h1>
+<h1 align="center"> Projeto Microservices com Java Spring Boot e Spring Cloud  </h1>
 
 <h4 align="center"> Microserviço para ser consumido por Eureka, Hystrix, Zuul </h4>
 
